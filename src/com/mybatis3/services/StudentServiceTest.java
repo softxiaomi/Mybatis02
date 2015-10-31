@@ -52,7 +52,7 @@ public class StudentServiceTest {
 		Assert.assertNotNull(newStudent);
 		System.out.println("asdfasdfasdfdsf");
 		System.out.println("asdfasdfasdfdsf");
-		System.out.println("asdfasdfasdfdszxvxczvcxzvf");
 		System.out.println("sdafsdafsadfsdafdsafsdadafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+		System.out.println("asdfasdfasdfdszxvxczvcxzvf");
 	}
 }
