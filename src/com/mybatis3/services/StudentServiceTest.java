@@ -50,5 +50,6 @@ public class StudentServiceTest {
 		studentService.createStudent(student);
 		Student newStudent = studentService.findStudentById(id);
 		Assert.assertNotNull(newStudent);
+		System.out.println("asdfasdfasdfdsf");
 	}
 }
