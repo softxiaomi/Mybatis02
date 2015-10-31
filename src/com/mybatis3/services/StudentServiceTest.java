@@ -51,5 +51,6 @@ public class StudentServiceTest {
 		Student newStudent = studentService.findStudentById(id);
 		Assert.assertNotNull(newStudent);
 		System.out.println("asdfasdfasdfdsf");
+		System.out.println("asdfasdfasdfdsf");
 	}
 }
